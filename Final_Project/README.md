@@ -4,7 +4,7 @@ Welcome to the FIBA Rules Chatbot, this project lets you ask questions about bas
 
 It’s like having a friendly basketball expert on your computer ready to explain the rules whenever you want.
 
-✨ Features
+## ✨ Features
 
 - Ask questions naturally, the chatbot understands queries like “What are the rules of dribbling?”
 
@@ -14,7 +14,7 @@ It’s like having a friendly basketball expert on your computer ready to explai
 
 - Interactive interface built with Gradio, so it feels like chatting with a human.
 
-🛠 How It Works
+## 🛠 How It Works
 
 - PDF Loading: The official FIBA 2024 rules PDF is downloaded and loaded.
 
@@ -28,7 +28,7 @@ It’s like having a friendly basketball expert on your computer ready to explai
 
 - LLM (Groq LLaMA 3.1): Reads the retrieved chunks and generates a friendly, concise answer.
 
-🎯 Example Usage
+## 🎯 Example Usage
 
 - Ask the bot questions like:
 
@@ -65,13 +65,13 @@ Run the cells
 
 Open the Gradio interface in your browser and start chatting!
 
-💡 Tips
+## 💡 Tips
 
 - Use specific questions for best answers.
 
 - If the bot says it can’t find the answer, check the source PDF.
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 
 - Python: main programming language
 
